@@ -52,4 +52,5 @@ Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Jupyter / Google Colab
 
 ## Author
 
-[Your Name] — [College Name]
+Rudraksh Nautiyal — B.Tech CSE
+Jaypee University of Information Technology
